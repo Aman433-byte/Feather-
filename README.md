@@ -1,24 +1,4 @@
-<html>
-<head>
-<style> 
-div {
-  width: 200px;
-  height: 200px;
-  background-color: red;
-  position: relative;
-  animation-name: example;
-  animation-duration: 8s;
-  animation-delay: -3s;
-}
 
-@keyframes example {
-  0%   {background-color:red; left:0px; top:0px;}
-  25%  {background-color:yellow; left:200px; top:0px;}
-50%  {background-color:blue; left:200px; top:200px;}
-  75%  {background-color:green; left:0px; top:200px;}
-  100% {background-color:red; left:0px; top:0px;}
-}
-</style>
 </head>
 <body>
 <html lang="en">
@@ -166,6 +146,31 @@ function w3_close() {
 
 </body>
 </html>
+
+
+
+<html>
+<head>
+<style> 
+div {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  position: relative;
+  animation-name: example;
+  animation-duration: 8s;
+  animation-delay: -3s;
+}
+
+@keyframes example {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+50%  {background-color:blue; left:200px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+</style>
+SCHOLARSHOME
 
 
 
