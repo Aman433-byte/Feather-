@@ -2,8 +2,8 @@
 <head>
 <style> 
 div {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   background-color: red;
   position: relative;
   animation-name: example;
