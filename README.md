@@ -163,10 +163,10 @@ div {
 }
 
 @keyframes example {
-  0%   {background-color:red; left:0px; top:0px;}
-  25%  {background-color:yellow; left:200px; top:0px;}
-50%  {background-color:blue; left:200px; top:200px;}
-  75%  {background-color:green; left:0px; top:200px;}
+  0%   {background-color:red; left:1000px; top:1000px;}
+  25%  {background-color:yellow; left:1000px; top:1000px;}
+50%  {background-color:blue; left:200px; top:1000x;}
+  75%  {background-color:green; left:0px; top:1000px;}
   100% {background-color:red; left:0px; top:0px;}
 }
 </style>
