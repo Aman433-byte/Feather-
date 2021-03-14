@@ -95,93 +95,57 @@ Scholarshome,Shahi Eidgah.
 Xi-Tulip
 (Want to be an international programmer,pray for me)
 
-
-document.getElementById("app").innerHTML = `
-<div class="base-timer">
-  <svg class="base-timer__svg" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-    <g class="base-timer__circle">
-      <circle class="base-timer__path-elapsed" cx="50" cy="50" r="45" />
-    </g>
-  </svg>
-  <span>
-    <!-- Remaining time label -->
-  </span>
-</div>
-`;
-/* Sets the containers height and width */
-.base-timer {
-  position: relative;
-  height: 300px;
-  width: 300px;
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+p {
+  text-align: center;
+  font-size: 60px;
+  margin-top: 0px;
 }
+</style>
+</head>
+<body>
 
-/* Removes SVG styling that would hide the time label */
-.base-timer__circle {
-  fill: none;
-  stroke: none;
-}
+<p id="demo"></p>
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("Jan 5, 2022 15:37:25").getTime();
 
-/* The SVG path that displays the timer's progress */
-.base-timer__path-elapsed {
-  stroke-width: 7px;
-  stroke: grey;
-}
-function formatTimeLeft(time) {
-  // The largest round integer less than or equal to the result of time divided being by 60.
-  const minutes = Math.floor(time / 60);
-  
-  // Seconds are the remainder of the time divided by 60 (modulus operator)
-  let seconds = time % 60;
-  
-  // If the value of seconds is less than 10, then display seconds with a leading zero
-  if (seconds < 10) {
-    seconds = `0${seconds}`;
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+    
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+    
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+  // Output the result in an element with id="demo"
+  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+    
+  // If the count down is over, write some text 
+  if (distance < 0) {
+    clearInterval(x);if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "EXPIRED";
   }
+}, 1000);
+</script>
 
-  // The output in MM:SS format
-  return `${minutes}:${seconds}`;
-}
-document.getElementById("app").innerHTML = `
-<div class="base-timer">
-  <svg class="base-timer__svg" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-    <g class="base-timer__circle">
-      <circle class="base-timer__path-elapsed" cx="50" cy="50" r="45"></circle>
-    </g>
-  </svg>
-  <span id="base-timer-label" class="base-timer__label">
-    ${formatTime(timeLeft)}
-  </span>
-</div>
-` 
-.base-timer__label {
-  position: absolute;
+</body>
+</html>
+
+
+
+
+
+
   
-  /* Size should match the parent container */
-  width: 300px;
-  height: 300px;
-  
-  /* Keep the label aligned to the top */
-  top: 0;
-  
-  /* Create a flexible box that centers content vertically and horizontally */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-  /* Sort of an arbitrary number; adjust to your liking */
-  font-size: 48px;
-}
-// Start with an initial value of 20 seconds
-const TIME_LIMIT = 20;
-
-// Initially, no time has passed, but this will count up
-// and subtract from the TIME_LIMIT
-let timePassed = 0;
-let timeLeft = TIME_LIMIT;
-
-
-
-
-
-
-
