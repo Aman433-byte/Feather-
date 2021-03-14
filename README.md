@@ -69,11 +69,19 @@ div {
 </head>
 <body>
 
-<h2>Demonstrating the Box Model</h2>
+<h2>Description about this website</h2
 
-<p>The CSS box model is essentially a box that wraps around every HTML element. It consists of: borders, padding, margins, and the actual content.</p>
+Firstly,this is not a proffesional website because i am not a professional web developer as well.But i think it will be worked to take attention of the students.It will be specilly used for the students of class XI-tulip
+Things to plot here are-
+☞Renaining time for upcoming(most recent) exam.
+☞Notes(If possible)
+☞Class links
+☞Facebook group's important posts.
 
-<div>This text is the content of the box. We have added a 50px padding, 20px margin and a 15px green border. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+ 💝Developed by Miah Mohammed Aman💝
+Scholarshome,Shahi Eidgah.
+Xi-Tulip
+(Want to be an international programmer,pray for me) 
 
 </body>
 </html>
