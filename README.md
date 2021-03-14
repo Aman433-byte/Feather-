@@ -69,22 +69,27 @@ div {
 </head>
 <body>
 
-<h2>Description about this website</h2
+Description about this website
 
 Firstly,this is not a proffesional website because i am not a professional web developer as well.But i think it will be worked to take attention of the students.It will be specilly used for the students of class XI-tulip
 Things to plot here are-
+
+
+
 ☞Renaining time for upcoming(most recent) exam.
 ☞Notes(If possible)
 ☞Class links
 ☞Facebook group's important posts.
 
+ 
+ 
  💝Developed by Miah Mohammed Aman💝
 Scholarshome,Shahi Eidgah.
 Xi-Tulip
 (Want to be an international programmer,pray for me) 
 
-</body>
-</html>
+
+
 
 
 
