@@ -53,8 +53,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
   <div class="w3-row w3-padding-64">
     <div class="w3-twothird w3-container">
       <h1 class="w3-text-teal">INTRUDUCTION</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum
-dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <p>SCHOLARSHOME,shahi eidgah An English Medium College was established on 2000.But it is spreading it's shine to all over the country. Now a days, it has beckme a popular school and college not only in Sylhet but also in the other cities.
+</p>
     </div>
     <div class="w3-third w3-container">
       <p class="w3-border w3-padding-large w3-padding-32 w3-center">AD</p>
@@ -63,9 +63,12 @@ dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt u
   </div>
  <div class="w3-row">
     <div class="w3-twothird w3-container">
-      <h1 class="w3-text-teal">Heading</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum
-        dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <h1 class="w3-text-teal">MY PORTFOLIO</h1>
+      <p>My Name Is MIAH MOHAMMED AMAN
+        Studing At SCHOLARSHOME COLLEGE,shahi eidgah,XI-TULIP
+        I am not a proffesional web developer.
+        But aim is to be an International Programmer/Web Developer
+</p>
     </div>
     <div class="w3-third w3-container">
       <p class="w3-border w3-padding-large w3-padding-32 w3-center">AD</p>
@@ -74,10 +77,15 @@ dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt u
   </div>
 <div class="w3-row w3-padding-64">
     <div class="w3-twothird w3-container">
-      <h1 class="w3-text-teal">INTRODUCTION</h1>
-      <p>SCHOLARSHOME,shahi eidgah
-        An English Medium College was established on 2000.But it is spreading it's shine to all over the country.
-        Now a days, it has beckme a popular school and college not only in Sylhet but also in the other cities.
+      <h1 class="w3-text-teal">FACILITIES of THIS WEBSITE</h1>
+      <p>
+        ☞Remaining Time For most recent upcoming exams:
+        ☞Notes(If possible)
+        ☞Class links
+        ☞Face grouo important links/notice
+        ☞GOOGLE CLASS ROOM LINKS
+
+
 </p>
     </div>
     <div class="w3-third w3-container">
