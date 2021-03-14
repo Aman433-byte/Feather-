@@ -76,9 +76,16 @@ Things to plot here are-
 
 
 
+
 ☞Renaining time for upcoming(most recent) exam.
+
+
 ☞Notes(If possible)
+
+
 ☞Class links
+
+
 ☞Facebook group's important posts.
 
  
