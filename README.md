@@ -1,5 +1,5 @@
 
-</head>
+<p>SCHOLARSHOME</p>
 <body>
 <html lang="en">
 <title>W3.CSS Template</title>
