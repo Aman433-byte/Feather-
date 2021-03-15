@@ -1,4 +1,4 @@
-<div style="background-color:WhiteBlue;width:400px;border:1px solid black;padding:90px;">
+<div style="background-color:Pink;width:420px;border:1px solid black;padding:1px;">
 
 <p>SCHOLARSHOME</p>
 <body>
