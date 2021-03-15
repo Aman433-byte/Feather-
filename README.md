@@ -58,14 +58,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
       <h1 class="w3-text-teal">INTRUDUCTION</h1>
       <p>SCHOLARSHOME,shahi eidgah An English Medium College was established on 2000.But it is spreading it's shine to all over the country. Now a days, it has beckme a popular school and college not only in Sylhet but also in the other cities.
 </p>
-    </div>
-    <div class="w3-third w3-container">
-      <p class="w3-border w3-padding-large w3-padding-32 w3-center">SCHOLARSHOME</p>
-      <p class="w3-border w3-padding-large w3-padding-64 w3-center">SCHOLARSHOME</p>
-    </div>
-  </div>
- <div class="w3-row">
-    <div class="w3-twothird w3-container">
+    
+ 
       <h1 class="w3-text-teal">MY PORTFOLIO</h1>
       <p>My Name Is MIAH MOHAMMED AMAN
         Studing At SCHOLARSHOME COLLEGE,shahi eidgah,XI-TULIP
