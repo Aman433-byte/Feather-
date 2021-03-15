@@ -1,4 +1,4 @@
-<div style="background-color:Pink;width:420px;border:1px solid black;padding:1px;">
+<div style="background-color:GradientPink;width:420px;border:1px solid black;padding:1px;">
 
 <p>SCHOLARSHOME</p>
 <body>
@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Algerian", sans-serif;}
 .w3-sidebar {
   z-index: 3;
   width: 200px;
