@@ -110,7 +110,14 @@ Upcoming Classes(Tuesday)
         ☞Class links
         ☞Face grouo important links/notice
         ☞GOOGLE CLASS ROOM LINKS
-1ST TERM EXAM:
+
+
+
+
+
+
+
+<h2>1ST TERM EXAM</h2>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -128,7 +135,7 @@ p {
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Mar 17, 2021 15:37:25").getTime();
+var countDownDate = new Date("Mar 31, 2021 15:37:25").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
