@@ -38,7 +38,7 @@ body {
   display: inline-block;
   color: black;
   text-align: center;
-  padding: 14px;
+  padding: 204px;
   text-decoration: none;
   font-size: 7px;
   border-radius: 1px;
