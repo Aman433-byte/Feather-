@@ -18,8 +18,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
   z-index: 3;
   width: 20px;
  top: 5px;
-  bottom: 5px;
-  height: 5px;
+  bottom: 0;
+  height: inherit;
 }
 </style>
 <body>
