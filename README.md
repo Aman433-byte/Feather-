@@ -26,7 +26,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 
 <!-- Navbar-left -->
 <div class="w3-left">
-  <div class="w3-bar w3-theme w3-top w3-right-align w3-small">
+  <div class="w3-bar w3-theme w3-top w3-right-align w3-large">
     <a class="w3-bar-item w3-button w3-left w3-hide-large w3-hover-yellow w3-large w3-theme-l1" href="javascript:void(0)" onclick="w3_open()"><i class="fa fa-bars"></i></a>
   <a href="#" class="w3-bar-item w3-button w3-theme-9">Logo</a>
     <a href="#" class="w3-bar-item w3-button w3-theme-small w3-hover-white">About</a>
@@ -42,7 +42,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-right w3-xlarge w3-padding-large w3-hover-black w3-hide-large" title="Close Menu">
     <i class="fa fa-remove"></i>
   </a>
-  <h4 class="w3-bar-item"><b>Menu</b></h4>
+  <h4>class="w3-bar-item"><b>Menu</b></h4>
   <a class="w3-bar-item w3-button w3-hover-black" href="https://learn.p2.blog">My own website</a>
   <a class="w3-bar-item w3-button w3-hover-black" href="#">Contact Form</a>
   <a class="w3-bar-item w3-button w3-hover-black" href="#">Registration Form</a>
