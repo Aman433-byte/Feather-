@@ -197,7 +197,9 @@ var x = setInterval(function() {
     </div>
 <footer>developed by Miah mohammed aman</footer>
 
-
+body {
+  background-color: lightblue;
+}
 
 
 
