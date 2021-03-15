@@ -106,7 +106,7 @@ Upcoming Classes(Tuesday)
       <h1 class="w3-text-teal">FACILITIES of THIS WEBSITE</h1>
       <p>
         ☞Remaining Time For most recent upcoming exams:
-        ☞Notes(If possible)
+       <div ☞Notes(If possible)
         ☞Class links
         ☞Face grouo important links/notice
         ☞GOOGLE CLASS ROOM LINKS
