@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-html,body,h1,h2,h3,h4,h5,h6 {font-family: "Algerian", sans-serif;}
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 .w3-sidebar {
   z-index: 3;
   width: 200px;
@@ -40,8 +40,8 @@ body {
   text-align: center;
   padding: 14px;
   text-decoration: none;
-  font-size: 17px;
-  border-radius: 5px;
+  font-size: 7px;
+  border-radius: 1px;
 }
 
 .pill-nav a:hover {
@@ -57,7 +57,7 @@ body {
 </head>
 <body>
 
-<h2>How To Create a Pill Navigation Menu</h2>
+
 
 <div class="pill-nav">
   <a class="active" href="#home">Home</a>
