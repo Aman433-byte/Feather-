@@ -1,4 +1,3 @@
-DOCTYPE html>
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -25,14 +24,12 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
     <div class="w3-center w3-padding-16">My Food</div>
   </div>
 </div>
-  
 
 
 
 
 
-
-<h1>SCHOLARSHOME</h1>
+<h2>SCHOLARSHOME</h2>
 
   <a href="#" class="w3-bar-item w3-button w3-theme-9">Logo</a>
     <a href="#" class="w3-bar-item w3-button w3-theme-small w3-hover-white">About</a>
