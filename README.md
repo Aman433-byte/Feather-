@@ -38,7 +38,7 @@ body {
   display: inline-block;
   color: black;
   text-align: center;
-  padding: 204px;
+  padding: 10px;
   text-decoration: none;
   font-size: 7px;
   border-radius: 1px;
@@ -64,10 +64,6 @@ body {
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
-</div>
-
-</body>
-</html>
 
 
 <!-- Sidebar -->
@@ -182,6 +178,10 @@ function w3_close() {
 
 </body>
 </html></div>
+</div>
+
+</body>
+</html>
 
 
 
