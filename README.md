@@ -135,9 +135,9 @@ Upcoming Classes(Tuesday)
     </div>
 
     <div class="w3-container w3-theme-l1">
-      <p>Powered by <a href-From my own decision" target="_blank">w3.css</a></p>
+      <p>Powered by ME </p>
     </div>
-  </footer>
+<footer>developed by Miah mohammed aman</footer>
 
 <!-- END MAIN -->
 </div>
