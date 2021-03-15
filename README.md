@@ -110,14 +110,15 @@ Upcoming Classes(Tuesday)
         ☞Class links
         ☞Face grouo important links/notice
         ☞GOOGLE CLASS ROOM LINKS
+1ST TERM EXAM:
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 p {
   text-align: center;
-  font-size: 10px;
-  margin-top: 0px;
+  font-size: 20px;
+  margin-top: 20px;
 }
 </style>
 </head>
