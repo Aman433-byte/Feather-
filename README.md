@@ -1,4 +1,6 @@
-<div style="background-color:Pink;width:420px;border:1px solid black;padding:1px;">
+div {
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+};width:420px;border:1px solid black;padding:1px;">
 
 <h1>SCHOLARSHOME</h1>
 <body>
