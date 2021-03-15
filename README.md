@@ -116,7 +116,7 @@ Upcoming Classes(Tuesday)
 <style>
 p {
   text-align: center;
-  font-size: 60px;
+  font-size: 10px;
   margin-top: 0px;
 }
 </style>
@@ -127,7 +127,7 @@ p {
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Jan 5, 2021 15:37:25").getTime();
+var countDownDate = new Date("Mar 17, 2021 15:37:25").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
