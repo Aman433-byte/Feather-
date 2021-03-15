@@ -36,7 +36,6 @@ Not a member? <a href="#">Signup now</a></div>
 </form>
 </div>
 </body>
-</html>
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 *{
   margin: 0;
@@ -168,7 +167,7 @@ form .pass-link a:hover,
 form .signup-link a:hover{
   text-decoration: underline;
 }
-
+</html>
 
 
 
