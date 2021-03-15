@@ -71,10 +71,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 </style>
 </head>
 <body>
-<h2>CSS Buttons</h2>
+<h1>IMPORTANT</h1>
 
-<button>Default Button</button>
-<a href="#" class="button">Link Button</a>
+
+<a href="#" class="button">Class Links</a>
 <button class="button">Button</button>
 <input type="button" class="button" value="Input Button">
 </body>
