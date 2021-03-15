@@ -5,7 +5,7 @@
 <style>
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Roboto, Helvetica, sans-serif;
 }
 
 .topnav {
@@ -83,21 +83,20 @@ x.className = "topnav";
 </script>
 </body>
 </html>
+<h1>INTRUDUCTION</h1>
+SCHOLARSHOME,shahi eidgah An English Medium College was established on 2000.But it is spreading it's shine to all over the country. Now a days, it has beckme a popular school and college not only in Sylhet but also in the other cities.
 
 
 
 
-      <h1 class="w3-text-teal">INTRUDUCTION</h1>
-      <p>SCHOLARSHOME,shahi eidgah An English Medium College was established on 2000.But it is spreading it's shine to all over the country. Now a days, it has beckme a popular school and college not only in Sylhet but also in the other cities.
-</p>
+      
     
  
-      <h1 class="w3-text-teal">MY PORTFOLIO</h1>
+      <h1>MY PORTFOLIO</h1>
       <p>My Name Is MIAH MOHAMMED AMAN
         Studing At SCHOLARSHOME COLLEGE,shahi eidgah,XI-TULIP
         I am not a proffesional web developer.
-        But aim is to be an International Programmer/Web Developer
-</p>
+        But aim is to be an International Programmer/Web Developer</p>
     </div>
     <div class="w3-third w3-container">
 
