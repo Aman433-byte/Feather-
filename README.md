@@ -1,6 +1,6 @@
 <div style="background-color:Pink;width:420px;border:1px solid black;padding:1px;">
 
-<p>SCHOLARSHOME</p>
+<h1>SCHOLARSHOME</h1>
 <body>
 <html lang="en">
 <title>W3.CSS Template</title>
@@ -71,11 +71,11 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 </style>
 </head>
 <body>
-<h1>IMPORTANT</h1>
+<h2>IMPORTANT</h2>
 
 
 <a href="#" class="button">Class Links</a>                  ✔                   	 <a href="#" class="button">EXAMS</a>
-</h2>Upcoming Classes(Tuesday)</h2>
+Upcoming Classes(Tuesday)
 1st Class(9:00-9:40)-
 
 
@@ -135,7 +135,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
     </div>
 
     <div class="w3-container w3-theme-l1">
-      <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+      <p>Powered by <a href-From my own decision" target="_blank">w3.css</a></p>
     </div>
   </footer>
 
@@ -168,7 +168,7 @@ function w3_close() {
 </script>
 
 </body>
-</html></div>
+</html>
 
 
 
