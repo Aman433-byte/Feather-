@@ -1,6 +1,6 @@
-div {
-    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
-};width:420px;border:1px solid black;padding:1px;">
+
+
+
 
 <h1>SCHOLARSHOME</h1>
 <body>
@@ -15,10 +15,10 @@ div {
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 .w3-sidebar {
-  z-index: 3;
-  width: 200px;
+  z-index: 2;
+  width: 40px;
  top: 10px;
-  bottom: 0;
+  bottom: 10;
   height: inherit;
 }
 </style>
@@ -26,7 +26,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 
 <!-- Navbar-left -->
 <div class="w3-left">
-  <div class="w3-bar w3-theme w3-top w3-left-align w3-large">
+  <div class="w3-bar w3-theme w3-top w3-right-align w3-large">
     <a class="w3-bar-item w3-button w3-left w3-hide-large w3-hover-yellow w3-large w3-theme-l1" href="javascript:void(0)" onclick="w3_open()"><i class="fa fa-bars"></i></a>
   <a href="#" class="w3-bar-item w3-button w3-theme-9">Logo</a>
     <a href="#" class="w3-bar-item w3-button w3-theme-small w3-hover-white">About</a>
