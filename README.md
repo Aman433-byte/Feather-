@@ -26,14 +26,49 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Algerian", sans-serif;}
 <div class="w3-left">
   <div class="w3-bar w3-theme w3-top w3-left-align w3-large">
     <a class="w3-bar-item w3-button w3-left w3-hide-large w3-hover-yellow w3-large w3-theme-l1" href="javascript:void(0)" onclick="w3_open()"><i class="fa fa-bars"></i></a>
-    <a href="#" class="w3-bar-item w3-button w3-theme-9">Logo</a>
-    <a href="#" class="w3-bar-item w3-button w3-theme-small w3-hover-white">About</a>
-    <a href="#" class="w3-bar-item w3-button w3-theme-small w3-hover-white">Values</a>
-    <a href="#" class="w3-bar-item w3-button w3-theme-small w3-hover-white">News</a>
-    <a href="#" class="w3-bar-item w3-button w3-theme-small w3-hover-white">Contact</a><a href="#" class="w3-bar-item w3-button w3-hide-small w3-hide-medium w3-hover-white">Clients</a>
-    <a href="#" class="w3-bar-item w3-button w3-theme-small w3-hide-medium w3-hover-white">Partners</a>
-  </div>
+ 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.pill-nav a {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  font-size: 17px;
+  border-radius: 5px;
+}
+
+.pill-nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.pill-nav a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<h2>How To Create a Pill Navigation Menu</h2>
+
+<div class="pill-nav">
+  <a class="active" href="#home">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
 </div>
+
+</body>
+</html>
+
 
 <!-- Sidebar -->
 <nav class="w3-sidebar w3-bar-block w3-collapse w3-large w3-theme-l5 w3-animate-left" id="mySidebar">
