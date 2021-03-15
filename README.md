@@ -75,6 +75,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 
 
 <a href="#" class="button">Class Links</a>                  ✔                   	 <a href="#" class="button">EXAMS</a>
+</h2>Upcoming Classes(Tuesday)</h2>
+1st Class(9:00-9:40)-
+
 
 </body>
 </html>
@@ -168,6 +171,19 @@ function w3_close() {
 </body>
 </html></div>
 </div>
+
+
+
+
+<div id="getting-started"></div>
+<script type="text/javascript">
+  $("#getting-started")
+  .countdown("2017/01/01", function(event) {
+    $(this).text(
+      event.strftime('%D days %H:%M:%S')
+    );
+  });
+</script>
 
 
 
