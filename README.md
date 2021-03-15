@@ -173,12 +173,6 @@ xlarge">Mike</span><br>
   <hr>
 
   
-<h5 class="w3-bottombar w3-border-green">Demographic</h5>
-        <p>Language</p>
-        <p>Country</p>
-        <p>City</p>
-      </div>
-      <div class="w3-container w3-third">
 <h5 class="w3-bottombar w3-border-red">System</h5>
         <p>Browser</p>
         <p>OS</p>
@@ -195,7 +189,7 @@ xlarge">Mike</span><br>
   </div>
 <!-- Footer -->
   <footer class="w3-container w3-padding-16 w3-light-grey">
-    <h4>FOOTE</h4>
+    <h4>FOOTER</h4>
     <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
   </footer>
 
@@ -217,28 +211,14 @@ mySidebar.style.display = 'block';
 }
 
 // Close the sidebar with the close button
-function w3_close() More things come laterSidebar.style.display = "none";
+function w3_close() {
+  mySidebar.style.display = "none";
   overlayBg.style.display = "none";
 }
 </script>
 
 </body>
 </html>
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
