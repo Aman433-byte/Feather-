@@ -41,10 +41,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
     <i class="fa fa-remove"></i>
   </a>
   <h4 class="w3-bar-item"><b>Menu</b></h4>
-  <a class="w3-bar-item w3-button w3-hover-black" href="https://learn.p2.blog">https://learn.p2.blog</a>
-  <a class="w3-bar-item w3-button w3-hover-black" href="#">Link</a>
-  <a class="w3-bar-item w3-button w3-hover-black" href="#">Link</a>
-<a class="w3-bar-item w3-button w3-hover-black" href="#">Link</a>
+  <a class="w3-bar-item w3-button w3-hover-black" href="https://learn.p2.blog">My own website</a>
+  <a class="w3-bar-item w3-button w3-hover-black" href="#">Contact Form</a>
+  <a class="w3-bar-item w3-button w3-hover-black" href="#">Registration Form</a>
+<a class="w3-bar-item w3-button w3-hover-black" href="#">Whats App Group</a>
 </nav>
 
 <!-- Overlay effect when opening sidebar on small screens -->
@@ -111,8 +111,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
         ☞Face grouo important links/notice
         ☞GOOGLE CLASS ROOM LINKS
         
-<style> p {   text-align: center; font-size: 20px; font-colour:yellow } </style>
-<script> var deadline = new Date("Feb 7, 2021 11:00:00").getTime(); var x = setInterval(function() { var now = new Date().getTime(); var t = deadline - now; var days = Math.floor(t / (1000 * 60 * 60 * 24)); var hours = Math.floor((t%(1000 * 60 * 60 * 24))/(1000 * 60 * 60)); var minutes = Math.floor((t % (1000 * 60 * 60)) / (1000 * 60)); var seconds = Math.floor((t % (1000 * 60)) / 1000); document.getElementById("demo").innerHTML = days + "d "  + hours + "h " + minutes + "m " + seconds + "s ";     if (t < 0) {         clearInterval(x);         document.getElementById("demo").innerHTML = "EXPIRED";     } }, 1000); </script>
+
 
 
 </p>
@@ -125,12 +124,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 <!-- Pagination -->
   <div class="w3-center w3-padding-32">
     <div class="w3-bar">
-      <a class="w3-button w3-black" href="#">1</a>
-      <a class="w3-button w3-hover-black" href="https://learn.p2.blog">WEB</a>
-      <a class="w3-button w3-hover-black" href="#">3</a>
-      <a class="w3-button w3-hover-black" href="#">4</a>
-      <a class="w3-button w3-hover-black" href="#">5</a>
-      <a class="w3-button w3-hover-black" href="#">»</a>
+      <a class="w3-button w3-black" href="#">Home</a>
+      <a class="w3-button w3-hover-black" href="https://learn.p2.blog">Teachers</a>
+     
     </div>
   </div>
 <footer id="myFooter">
@@ -173,7 +169,7 @@ function w3_close() {
 
 </body>
 </html></div>
-</div>
+
 
 
 
