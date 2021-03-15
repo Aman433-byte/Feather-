@@ -74,7 +74,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 <h1>IMPORTANT</h1>
 
 
-<a href="#" class="button">Class Links</a>     <a href="#" class="button">EXAMS</a>
+<a href="#" class="button">Class Links</a>                  ✔                   	 <a href="#" class="button">EXAMS</a>
 
 </body>
 </html>
