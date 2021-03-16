@@ -146,7 +146,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
           <tr>
             <td><i class="fa fa-bookmark w3-text-blue w3-large"></i></td>
 <td>5th Class</td>
-            <td><i>Phhsics</i></td>
+            <td><i>Physics</i></td>
     <h5>Daily Overview</h5>
     <p>Total Presents</p>
     <div class="w3-grey">
@@ -170,7 +170,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
       <tr>
 <h2>Captains</h2>
         
-    <button class="w3-button w3-dark-grey">More Countries  <i class="fa fa-arrow-right"></i></button>
+    <button class="w3-button w3-dark-grey">my email:miahmohammedaman@gmail.com  <i class="fa fa-arrow-right"></i></button>
   </div>
   <hr>
   <div class="w3-container">
