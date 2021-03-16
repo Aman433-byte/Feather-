@@ -229,7 +229,7 @@ background-image: linear-gradient(315deg, #96c8fb 0%, #ddbdfc 74%);;">
  
 
 <form>
-<input style="width: 200px; padding: 20px; cursor: pointer; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 6px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: #ffff00; color: #000; border-radius: 10px; border: 1px solid #999; font-size: 140%;" type="button" value="FeedBack" onclick="window.location.href=https://forms.gle/2B9YuxwvC6q42BwYA//">
+<input style="width: 200px; padding: 20px; cursor: pointer; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 6px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: #ffff00; color: #000; border-radius: 10px; border: 1px solid #999; font-size: 140%;" type="button" value="FeedBack" onclick="window.location.href=https://forms.gle/2B9YuxwvC6q42BwYA/">
 </form>
 
 
