@@ -114,39 +114,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     </div>
   </div>
 
-  <div class="w3-panel">
-    <div class="w3-row-padding" style="margin:0 -16px">
-      <div class="w3-third">
-        <h5></h5>
-</div>
-        
-      <div class="w3-twothird">
-        <h5>Wednessday Classes</h5>
-        <table class="w3-table w3-striped w3-white">
-          <tr>
-            <td><i class="fa fa-user w3-text-blue w3-large"></i></td>
-            <td>1st Class</td>
-            <td><i>Bangla</i></td>
-          </tr>
-          <tr>
-            <td><i class="fa fa-bell w3-text-red w3-large"></i></td>
-            <td>2nd Class</td>
-            <td><i>English</i></td>
-          </tr>
-<tr>
-            <td><i class="fa fa-users w3-text-yellow w3-large"></i></td>
-            <td>3rd Class</td>
-            <td><i>ICT</i></td>
-          </tr>
-          <tr>
-            <td><i class="fa fa-comment w3-text-red w3-large"></i></td>
-            <td>4th Class</td>
-            <td><i>Maths</i></td>
-          </tr>
-          <tr>
-            <td><i class="fa fa-bookmark w3-text-blue w3-large"></i></td>
-<td>5th Class</td>
-            <td><i>Physics</i></td>
+  
     <h5>Daily Overview</h5>
     <p>Total Presents</p>
     <div class="w3-grey">
@@ -165,10 +133,9 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <hr>
 
   <div class="w3-container">
-    <h2>WEDNESSDAY CLASSES</h2>
     <table class="w3-table w3-striped w3-bordered w3-border w3-hoverable w3-white">
       <tr>
-<h2>Captains</h2>
+<h2>Contact Me</h2>
         
     <button class="w3-button w3-dark-grey">my email:miahmohammedaman@gmail.com  <i class="fa fa-arrow-right"></i></button>
   </div>
@@ -197,28 +164,7 @@ xlarge">MAHADI</span><br>
   </div>
   <hr>
 
-  <div class="w3-container">
- <h5>Recent Comments</h5>
-    <div class="w3-row">
-      <div class="w3-col m2 text-center">
-        <img class="w3-circle" src="/w3images/avatar3.png" style="width:96px;height:96px">
-      </div>
-      <div class="w3-col m10 w3-container">
-        <h4>John <span class="w3-opacity w3-medium">Sep 29, 2014, 9:12 PM</span></h4>
-        <p>Keep up the GREAT work! I am cheering for you!! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p><br>
-      </div>
-    </div>
-
-    <div class="w3-row">
-      <div class="w3-col m2 text-center">
-<img class="w3-circle" src="/w3images/avatar1.png" style="width:96px;height:96px">
-      </div>
-      <div class="w3-col m10 w3-container">
-        <h4>Bo <span class="w3-opacity w3-medium">Sep 28, 2014, 10:15 PM</span></h4>
-        <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p><br>
-      </div>
-    </div>
-  </div>
+  
   <br>
   <div class="w3-container w3-dark-grey w3-padding-32">
     <div class="w3-row">
@@ -281,7 +227,7 @@ Bismillahir Rahmanir Rahim
 background-image: linear-gradient(315deg, #96c8fb 0%, #ddbdfc 74%);;">
 
 <h1>Welcome</h1>
-<p>Please Press The Start Button</p>
+<p>Feed Back</p>
 
 </body>
 </html>
@@ -289,7 +235,7 @@ background-image: linear-gradient(315deg, #96c8fb 0%, #ddbdfc 74%);;">
  
 
 <form>
-<input style="width: 200px; padding: 20px; cursor: pointer; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 6px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: #ffff00; color: #000; border-radius: 10px; border: 1px solid #999; font-size: 140%;" type="button" value="START" onclick="window.location.href='https://aman433-byte.github.io/SCHOLARSHOME//">
+<input style="width: 200px; padding: 20px; cursor: pointer; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 6px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: #ffff00; color: #000; border-radius: 10px; border: 1px solid #999; font-size: 140%;" type="button" value="FeedBack" onclick="window.location.href=https://forms.gle/2B9YuxwvC6q42BwYA>
 </form>
 Powered & Developed by MIAH MOHAMMED AMAN
  
