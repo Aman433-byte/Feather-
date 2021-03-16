@@ -171,42 +171,29 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <table class="w3-table w3-striped w3-bordered w3-border w3-hoverable w3-white">
       <tr>
 <h2>Captains</h2>
-        <td>Syed Mahdi Jaman</td>
-        <td>65%</td>
-      </tr>
-      <tr>
-<td>Jidan Ahmed</td>
-        <td>15.7%</td>
-      </tr>
-      <tr>
-        <td>Aysha Begum</td>
-        <td>5.6%</td>
-      </tr>
-      <tr>
-<td>Samiha Haque</td>
-        <td>2.1%</td>
-      </tr>
-      <tr>
         
-    </table><br>
     <button class="w3-button w3-dark-grey">More Countries  <i class="fa fa-arrow-right"></i></button>
   </div>
   <hr>
   <div class="w3-container">
-    <h5>Recent Users</h5>
+    <h5>CAPTAINS</h5>
     <ul class="w3-ul w3-card-4 w3-white">
       <li class="w3-padding-16">
         <img src="/w3images/avatar2.png" class="w3-left w3-circle w3-margin-right" style="width:35px">
         <span class="w3-
-xlarge">Mike</span><br>
+xlarge">MAHADI</span><br>
       </li>
       <li class="w3-padding-16">
         <img src="/w3images/avatar5.png" class="w3-left w3-circle w3-margin-right" style="width:35px">
-        <span class="w3-xlarge">Jill</span><br>
+        <span class="w3-xlarge">JIDAN</span><br>
       </li>
       <li class="w3-padding-16">
         <img src="/w3images/avatar6.png" class="w3-left w3-circle w3-margin-right" style="width:35px">
-        <span class="w3-xlarge">Jane</span><br>
+        <span class="w3-xlarge">AYSHA</span><br>
+</li>
+      <li class="w3-padding-16">
+        <img src="/w3images/avatar6.png" class="w3-left w3-circle w3-margin-right" style="width:35px">
+        <span class="w3-xlarge">SAMIHA</span><br>
 </li>
     </ul>
   </div>
