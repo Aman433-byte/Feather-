@@ -42,7 +42,6 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-diamond fa-fw"></i>  Whats app grpup</a>
     <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bell fa-fw"></i>  Facebook Group</a>
 </div>
-  </div>
   <hr>
   <div class="w3-container">
 <h5>My Portfolio</h5>
@@ -52,8 +51,8 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <a href="#" class="w3-bar-item w3-button w3-padding w3-blue"><i class="fa fa-users fa-fw"></i>  Name:Miah Mohammed Aman</a>
     <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-eye fa-fw"></i>  Class:XI</a>
     <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-users fa-fw"></i>  Section:Tulip</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bullseye fa-fw"></i>  Aim:Want to take graduation in CSE from BUET</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-diamond fa-fw"></i>  Recent:Not a prpffesional but want to be an international</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-education fa-fw"></i>  Aim:Want to take graduation in CSE from BUET</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-books fa-fw"></i>  Recent:Not a prpffesional but want to be an international</a>
     <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bell fa-fw"></i>  News</a>
 <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bank fa-fw"></i>  General</a>
     <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-history fa-fw"></i>  History</a>
