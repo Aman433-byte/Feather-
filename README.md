@@ -150,27 +150,26 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
             <td><i>Phhsics</i></td>
           </tr>
           <tr>
-            w3-container">
-    <h5>General Stats</h5>
-    <p>New Visitors</p>
+    <h5>Daily Overview</h5>
+    <p>Total Presents</p>
     <div class="w3-grey">
-      <div class="w3-container w3-center w3-padding w3-green" style="width:25%">+25%</div>
+      <div class="w3-container w3-center w3-padding w3-green" style="width:60%">+60%</div>
     </div>
 
-    <p>New Users</p>
+    <p>Absents</p>
     <div class="w3-grey">
-      <div class="w3-container w3-center w3-padding w3-orange" style="width:50%">50%</div>
+      <div class="w3-container w3-center w3-padding w3-orange" style="width:30%">30%</div>
     </div>
 
-    <p>Bounce Rate</p>
+    <p>Leave</p>
 <div class="w3-grey">
-      <div class="w3-container w3-center w3-padding w3-red" style="width:75%">75%</div>
+      <div class="w3-container w3-center w3-padding w3-red" style="width:10%">10%</div>
     </div>
   </div>
   <hr>
 
   <div class="w3-container">
-    <h5>Countries</h5>
+    <h2>WEDNESSDAY CLASSES</h2>
     <table class="w3-table w3-striped w3-bordered w3-border w3-hoverable w3-white">
       <tr>
         <td>United States</td>
