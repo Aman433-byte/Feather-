@@ -1,6 +1,6 @@
 <html>
 <title>W3.CSS Template</title>
-<meta charset="UTF-8">
+<meta charset="UTF-7">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
@@ -8,7 +8,7 @@
 <style>
 html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 </style>
-<body class="w3-light-grey">
+<body class="w3-light-pink">
 
 <!-- Top container -->
 <div class="w3-bar w3-top w3-light-grey w3-large" style="z-index:4">
