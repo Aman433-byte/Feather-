@@ -118,8 +118,8 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <div class="w3-row-padding" style="margin:0 -16px">
       <div class="w3-third">
         <h5></h5>
-        
 </div>
+        
       <div class="w3-twothird">
         <h5>Wednessday Classes</h5>
         <table class="w3-table w3-striped w3-white">
@@ -162,7 +162,6 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 <div class="w3-grey">
       <div class="w3-container w3-center w3-padding w3-red" style="width:10%">10%</div>
     </div>
-  </div>
   <hr>
 
   <div class="w3-container">
