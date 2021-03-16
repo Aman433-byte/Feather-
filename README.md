@@ -138,7 +138,6 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 <h2>Contact Me</h2>
         
     <button class="w3-button w3-dark-grey">my email:miahmohammedaman@gmail.com  <i class="fa fa-arrow-right"></i></button>
-  </div>
   <hr>
   <div class="w3-container">
     <h5>CAPTAINS</h5>
@@ -192,8 +191,6 @@ xlarge">MAHADI</span><br>
 <!-- Footer -->
   <footer class="w3-container w3-padding-16 w3-light-grey">
     <h4>ধন্যবাদ</h4>
-    <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
-  </footer>
 
   <!-- End page content -->
 </div>
@@ -218,9 +215,6 @@ function w3_close() {
   overlayBg.style.display = "none";
 }
 </script>
-
-</body>
-</html>
 আবার আসবেন।
 <html>
 <body style="background-color:background-color: #96c8fb;
@@ -237,6 +231,8 @@ background-image: linear-gradient(315deg, #96c8fb 0%, #ddbdfc 74%);;">
 <form>
 <input style="width: 200px; padding: 20px; cursor: pointer; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 6px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: #ffff00; color: #000; border-radius: 10px; border: 1px solid #999; font-size: 140%;" type="button" value="FeedBack" onclick="window.location.href=https://forms.gle/2B9YuxwvC6q42BwYA//">
 </form>
+
+
 Powered & Developed by MIAH MOHAMMED AMAN
  
 
