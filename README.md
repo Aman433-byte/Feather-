@@ -31,15 +31,15 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   </div>
   <hr>
   <div class="w3-container">
-    <h5>Important</h5>
+    <h5>Classes</h5>
   </div>
   <div class="w3-bar-block">
     <a href="#" class="w3-bar-item w3-button w3-padding-16 w3-hide-large w3-dark-grey w3-hover-black" onclick="w3_close()" title="close menu"><i class="fa fa-remove fa-fw"></i>  Close Menu</a>
-    <a href="https://learn.p2.blog" class="w3-bar-item w3-button w3-padding w3-blue"><i class="fa fa-users fa-fw"></i>  Teachers and Classes</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-eye fa-fw"></i>  Notes</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-users fa-fw"></i>  Routine</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bullseye fa-fw"></i>  Team Registration</a>
-    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-diamond fa-fw"></i>  Whats app grpup</a>
+    <a href="http://learn.p2.blog/2021/03/16/online-class-schedule/" class="w3-bar-item w3-button w3-padding w3-blue"><i class="fa fa-users fa-fw"></i>  Sunday</a>
+    <a href="http://learn.p2.blog/2021/03/16/online-class-monday/" class="w3-bar-item w3-button w3-padding"><i class="fa fa-eye fa-fw"></i>  Monday</a>
+    <a href="http://learn.p2.blog/2021/03/16/online-class-tuesday/" class="w3-bar-item w3-button w3-padding"><i class="fa fa-users fa-fw"></i>  Tuesday</a>
+    <a href="http://learn.p2.blog/2021/03/16/online-class-wednesday/" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bullseye fa-fw"></i>  Wednesday</a>
+    <a href="http://learn.p2.blog/2021/03/16/online-class-thursday/" class="w3-bar-item w3-button w3-padding"><i class="fa fa-diamond fa-fw"></i>  Thursday</a>
     <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bell fa-fw"></i>  Facebook Group</a>
 </div>
   <hr>
