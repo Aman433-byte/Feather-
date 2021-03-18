@@ -41,6 +41,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <a href="http://learn.p2.blog/2021/03/16/online-class-wednesday/" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bullseye fa-fw"></i>  Wednesday</a>
     <a href="http://learn.p2.blog/2021/03/16/online-class-thursday/" class="w3-bar-item w3-button w3-padding"><i class="fa fa-diamond fa-fw"></i>  Thursday</a>
     <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bell fa-fw"></i>  Facebook Group</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bell fa-fw"></i>  Google ClassRooms</a>
 </div>
   <hr>
   <div class="w3-container">
