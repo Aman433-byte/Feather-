@@ -217,9 +217,9 @@ function w3_close() {
 }
 </script>
 আবার আসবেন।
-<html>
-<body style="background-color:background-color: #96c8fb;
-background-image: linear-gradient(315deg, #96c8fb 0%, #ddbdfc 74%);;">
+div {
+    background: linear-gradient(to bottom right, #33ccff 22%, #ff99cc 107%);
+}
 
 <h1>Welcome</h1>
 <p>Feed Back</p>
