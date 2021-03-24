@@ -8,7 +8,7 @@
 <style>
 html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 </style>
-<body class="w3-light-pink">
+<body class="w3-light blue">
 
 <!-- Top container -->
 <div class="w3-bar w3-top w3-light-white w3-large" style="z-index:4">
